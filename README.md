@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/ritu-tech/leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/ritu-tech/leetcode/tree/master/0584-find-customer-referee) |
+| [0596-classes-more-than-5-students](https://github.com/ritu-tech/leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/ritu-tech/leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/ritu-tech/leetcode/tree/master/0619-biggest-single-number) |
 | [1182-game-play-analysis-iv](https://github.com/ritu-tech/leetcode/tree/master/1182-game-play-analysis-iv) |
