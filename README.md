@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/ritu-tech/leetcode/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/ritu-tech/leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1390-average-selling-price](https://github.com/ritu-tech/leetcode/tree/master/1390-average-selling-price) |
+| [1670-patients-with-a-condition](https://github.com/ritu-tech/leetcode/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ritu-tech/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/ritu-tech/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1877-find-followers-count](https://github.com/ritu-tech/leetcode/tree/master/1877-find-followers-count) |
